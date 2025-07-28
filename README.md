@@ -21,7 +21,7 @@
 <img width="1278" height="764" alt="Sprawl Demo" src="https://github.com/user-attachments/assets/f8833066-b7f3-4dfc-b64d-c64c42b21bfd" />
 
 *js面板*
-<img width="2560" height="1522" alt="image" src="https://github.com/user-attachments/assets/7cdcba3e-7af6-4f8e-acf2-d5e4f788f494" />
+<img width="1280" height="764" alt="1753664322458" src="https://github.com/user-attachments/assets/f6efb024-5df3-45bc-a975-d59f96bcb03d" />
 
 </details>
 
